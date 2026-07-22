@@ -14,7 +14,7 @@
       "pain_point_category": "lead_follow_up_crm",
       "category": "off_the_shelf",
       "use_case": "Centralizes leads from Zillow, website, and referrals into one pipeline; automates follow-up sequences and lead routing for teams.",
-      "cost": "Grow $58/month, Pro $416/month (10 users), Platform $833/month (30 users), Dialer add-on $33/user/month",
+      "cost": "$58-69/user/month (Grow plan, solo); $499/month for 10 users (Pro plan); Platform plan $833/month for 30 users. Dialer add-on $25-33/user/month extra.",
       "setup_time": "Low for basic pipeline setup (same day); medium (1-2 weeks) for full automation/action-plan configuration and lead-source integrations.",
       "last_verified": "2026-07-22",
       "source_url": "https://www.cloudtalk.io/blog/follow-up-boss-pricing/",
@@ -25,7 +25,7 @@
       "pain_point_category": "lead_follow_up_crm",
       "category": "off_the_shelf",
       "use_case": "All-in-one AI-powered CRM bundling lead gen, marketing automation, automated social posting, and an AI assistant that engages leads 24/7.",
-      "cost": "~$449+/mo",
+      "cost": "Custom/contact-based pricing, not publicly listed; positioned as a higher-tier all-in-one vs. a standalone CRM.",
       "setup_time": "Medium-high given the bundled feature set (CRM + marketing + website).",
       "last_verified": "2026-07-22",
       "source_url": "https://www.sierrainteractive.com/insights/blog/best-real-estate-crm/",
@@ -39,15 +39,15 @@
       "cost": "~$24.95/month per agent standalone; often bundled free or low-cost ($10-15/month) through MLS subscription. Essentials tier cited around $99/month in some markets.",
       "setup_time": "Low; largely turnkey once connected to MLS and lockbox systems.",
       "last_verified": "2026-07-22",
-      "source_url": "https://wifitalents.com/best/real-estate-scheduling-software/",
-      "notes": "De facto standard where available via MLS (600+ MLS integrations). Does not do post-showing follow-up automation on its own."
+      "source_url": "https://showingtime.com/solutions/showings-and-offers/support",
+      "notes": "De facto standard where available via MLS (600+ MLS integrations). Does not do post-showing follow-up automation on its own. Pricing is contact-sales based, not published; vendor page confirms this rather than listing numbers."
     },
     {
       "name": "Calendly",
       "pain_point_category": "showing_scheduling",
       "category": "off_the_shelf",
       "use_case": "General appointment booking for buyer consultations, listing presentations, and discovery/review calls (not private MLS showings).",
-      "cost": "not found",
+      "cost": "Free tier available; paid plans from ~$10/user/month.",
       "setup_time": "Very low, same-day setup.",
       "last_verified": "2026-07-22",
       "source_url": "https://agiled.app/blog/best-scheduling-software-for-real-estate",
@@ -94,7 +94,7 @@
       "cost": "Not publicly listed; contact vendor. Framed as replacing $50-200+/description freelance copywriting cost.",
       "setup_time": "Low.",
       "last_verified": "2026-07-22",
-      "source_url": "https://www.g2.com/products/listingai/reviews",
+      "source_url": "https://www.listingai.co/pricing",
       "notes": "Broader than pure description writing; worth flagging if a client's pain point spans listing marketing generally, not just text."
     },
     {
@@ -127,7 +127,7 @@
       "cost": "$74/month.",
       "setup_time": "Low; templates are ready to customize, no design work required.",
       "last_verified": "2026-07-22",
-      "source_url": "https://www.housingwire.com/articles/real-estate-marketing-tools/",
+      "source_url": "https://coffeecontracts.com/pricing",
       "notes": "No built-in scheduling/posting automation; still needs a scheduler like Buffer paired with it."
     },
     {
@@ -138,7 +138,7 @@
       "cost": "$6/month per channel (Essentials), $12/month per channel (Team).",
       "setup_time": "Very low.",
       "last_verified": "2026-07-22",
-      "source_url": "https://apaya.com/blog/real-estate-social-media-automation",
+      "source_url": "https://buffer.com/pricing",
       "notes": "Scheduling only, no content creation. Pairs naturally with Coffee & Contracts or Claude-drafted captions."
     },
     {
@@ -146,7 +146,7 @@
       "pain_point_category": "client_communication_automation",
       "category": "off_the_shelf",
       "use_case": "AI-driven lead nurture via text/voice, trained specifically on real estate buyer/seller conversations; qualifies leads before handoff to a human agent.",
-      "cost": "$99\u2013$499/mo",
+      "cost": "$295-$1,000+/month, scaling with lead volume.",
       "setup_time": "Medium; needs CRM integration (works with Follow Up Boss and Lofty) and conversation-flow tuning.",
       "last_verified": "2026-07-22",
       "source_url": "https://www.layer3labs.io/comparisons/best-ai-chatbot-for-real-estate",
@@ -157,7 +157,7 @@
       "pain_point_category": "client_communication_automation",
       "category": "off_the_shelf",
       "use_case": "General-purpose AI chatbot/messaging platform configured for real estate FAQs, lead qualification, and agent handoff across web/mobile/messaging.",
-      "cost": "Starts from $1.25 per resolution",
+      "cost": "Not specified in current sourcing; general Freshworks pricing tiers apply.",
       "setup_time": "Medium; requires FAQ/flow training even though it's not real-estate-specific out of the box.",
       "last_verified": "2026-07-22",
       "source_url": "https://www.crescendo.ai/blog/best-real-estate-chatbots-with-ai",
