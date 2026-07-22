@@ -47,7 +47,7 @@ jobs:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           if [ -s flags.json ] && [ "$(cat flags.json)" != "[]" ]; then
-            BRANCH="review/tools-$(date +%Y-%m-%d)"
+            BRANCH="review/tools-$(date +%Y-%m-%d)-${{ github.run_id }}"
             git checkout -b "$BRANCH"
             git add flags.json flags.md
             git commit -m "Flag tool database items for manual review"
