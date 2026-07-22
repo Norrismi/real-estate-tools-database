@@ -1,0 +1,8 @@
+## Tool database items needing manual review
+
+### ShowingTime (Appointment Center)
+- Reason: Page explicitly states 'Pricing varies based on each customer's individual needs' and directs users to contact sales; no specific pricing figures are displayed, making verification impossible.
+- Recorded cost on file: ~$24.95/month per agent standalone; often bundled free or low-cost ($10-15/month) through MLS subscription. Essentials tier cited around $99/month in some markets.
+- Possible new value found: not found
+- Source: https://showingtime.com/solutions/showings-and-offers/support
+
