@@ -1,0 +1,35 @@
+[
+  {
+    "tool": "ShowingTime (Appointment Center)",
+    "reason": "The scraped page is a comparison review of multiple scheduling tools and does not contain pricing information for ShowingTime specifically; the page appears truncated at the Ylopo entry.",
+    "status_found": "active",
+    "confidence": "low",
+    "current_price_text": "not found",
+    "recorded_cost": "~$24.95/month per agent standalone; often bundled free or low-cost ($10-15/month) through MLS subscription. Essentials tier cited around $99/month in some markets.",
+    "source_url": "https://wifitalents.com/best/real-estate-scheduling-software/"
+  },
+  {
+    "tool": "ListingAI",
+    "reason": "Could not fetch source_url: HTTP 403",
+    "source_url": "https://www.g2.com/products/listingai/reviews",
+    "recorded_cost": "Not publicly listed; contact vendor. Framed as replacing $50-200+/description freelance copywriting cost."
+  },
+  {
+    "tool": "Coffee & Contracts",
+    "reason": "Coffee & Contracts is listed as a real estate marketing tool on the page but no pricing information is provided in the scraped text, making it impossible to verify the recorded $74/month cost.",
+    "status_found": "active",
+    "confidence": "low",
+    "current_price_text": "not found",
+    "recorded_cost": "$74/month.",
+    "source_url": "https://www.housingwire.com/articles/real-estate-marketing-tools/"
+  },
+  {
+    "tool": "Buffer",
+    "reason": "The provided page text is truncated and does not contain any pricing information for Buffer; it only introduces a pricing comparison article that was cut off before the actual pricing details.",
+    "status_found": "not_found",
+    "confidence": "high",
+    "current_price_text": "not found",
+    "recorded_cost": "$6/month per channel (Essentials), $12/month per channel (Team).",
+    "source_url": "https://apaya.com/blog/real-estate-social-media-automation"
+  }
+]
