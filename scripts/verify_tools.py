@@ -86,7 +86,11 @@ Respond with ONLY a JSON object, no markdown fences, no preamble, in this exact 
   "matches_recorded_cost": true or false,
   "confidence": "high" | "medium" | "low",
   "notes": "<one sentence on any discrepancy or context>"
-}}"""
+}}
+
+FORMATTING RULE: Never use an en dash, em dash, or hyphen to express a price range.
+Write ranges using the word "to" instead. For example, write "$99 to $499/mo",
+never "$99-$499/mo" or "$99–$499/mo". This applies to current_price_text and notes."""
 
     resp = client.messages.create(
         model=MODEL,
