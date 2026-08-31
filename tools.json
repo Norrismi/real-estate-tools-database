@@ -16,7 +16,7 @@
       "use_case": "Centralizes leads from Zillow, website, and referrals into one pipeline; automates follow-up sequences and lead routing for teams.",
       "cost": "Grow $58/month, Pro $416/month (10 users), Platform $833/month (30 users), Dialer add-on $33/user/month",
       "setup_time": "Low for basic pipeline setup (same day); medium (1-2 weeks) for full automation/action-plan configuration and lead-source integrations.",
-      "last_verified": "2026-08-24",
+      "last_verified": "2026-08-31",
       "source_url": "https://www.cloudtalk.io/blog/follow-up-boss-pricing/",
       "notes": "Gold-standard CRM-first hub, deep third-party integrations (250+). No native transaction document management. Best fit when the core pain point is fragmented lead sources plus slow follow-up."
     },
@@ -27,7 +27,7 @@
       "use_case": "All-in-one AI-powered CRM bundling lead gen, marketing automation, automated social posting, and an AI assistant that engages leads 24/7.",
       "cost": "~$449+/mo",
       "setup_time": "Medium-high given the bundled feature set (CRM + marketing + website).",
-      "last_verified": "2026-08-24",
+      "last_verified": "2026-08-31",
       "source_url": "https://www.sierrainteractive.com/insights/blog/best-real-estate-crm/",
       "notes": "Best when a client wants to consolidate several tools (CRM, marketing, IDX site) rather than add point solutions."
     },
@@ -38,7 +38,7 @@
       "use_case": "MLS-integrated showing coordination between listing agent, buyer agent, and seller; automated notifications and feedback collection.",
       "cost": "not found",
       "setup_time": "Low; largely turnkey once connected to MLS and lockbox systems.",
-      "last_verified": "2026-08-24",
+      "last_verified": "2026-08-31",
       "source_url": "https://showingtime.com/solutions/showings-and-offers/support",
       "notes": "De facto standard where available via MLS (600+ MLS integrations). Does not do post-showing follow-up automation on its own. Pricing is contact-sales based, not published; vendor page confirms this rather than listing numbers."
     },
@@ -49,7 +49,7 @@
       "use_case": "General appointment booking for buyer consultations, listing presentations, and discovery/review calls (not private MLS showings).",
       "cost": "not found",
       "setup_time": "Very low, same-day setup.",
-      "last_verified": "2026-08-24",
+      "last_verified": "2026-08-31",
       "source_url": "https://agiled.app/blog/best-scheduling-software-for-real-estate",
       "notes": "Good complement to ShowingTime rather than a replacement; handles the non-showing meeting types."
     },
@@ -60,7 +60,7 @@
       "use_case": "AI-assisted transaction coordination with pay-per-transaction pricing; contract intake and document/deadline tracking.",
       "cost": "$14.99 per contract intake (pay-per-use model).",
       "setup_time": "Low; per-transaction model avoids upfront platform setup.",
-      "last_verified": "2026-08-24",
+      "last_verified": "2026-08-31",
       "source_url": "https://www.listedkit.com/best-tc-software",
       "notes": "Good fit for lower or variable transaction volume where a flat monthly TC platform isn't justified yet."
     },
@@ -71,7 +71,7 @@
       "use_case": "Per-seat transaction coordination with unlimited transactions and AI contract data extraction.",
       "cost": "From $29/user/month.",
       "setup_time": "Low-medium.",
-      "last_verified": "2026-08-24",
+      "last_verified": "2026-08-31",
       "source_url": "https://www.docjacket.com/blog/best-transaction-coordinator-software",
       "notes": "Best team-value option cited for independent TCs; unlimited-transaction pricing suits higher volume than ListedKit's pay-per-intake model."
     },
@@ -82,7 +82,7 @@
       "use_case": "Compliance-focused transaction management with AI compliance engine covering all 50 states.",
       "cost": "$49-149/month per coordinator.",
       "setup_time": "Medium-high; more configuration for compliance workflows across states.",
-      "last_verified": "2026-08-24",
+      "last_verified": "2026-08-31",
       "source_url": "https://rebillion.ai/blog/2026/02/28/ai-transaction-coordinator-tools/",
       "notes": "Best fit for brokerages with multi-state or heavier compliance needs, not solo agents."
     },
@@ -93,7 +93,7 @@
       "use_case": "Generates MLS-compliant, SEO-optimized listing descriptions plus virtual staging, video, and CMA reports from one platform.",
       "cost": "Essential $19/month, Professional $36/month, Expert $150/month, plus Free tier",
       "setup_time": "Low.",
-      "last_verified": "2026-08-24",
+      "last_verified": "2026-08-31",
       "source_url": "https://www.listingai.co/pricing",
       "notes": "Broader than pure description writing; worth flagging if a client's pain point spans listing marketing generally, not just text."
     },
@@ -104,7 +104,7 @@
       "use_case": "Free MLS-ready property description generator with fair housing language compliance checks and multiple writing styles.",
       "cost": "Free.",
       "setup_time": "Very low, no signup friction.",
-      "last_verified": "2026-08-24",
+      "last_verified": "2026-08-31",
       "source_url": "https://www.estatepass.ai/best/listing-description-generator/",
       "notes": "Good default recommendation for a client where listing descriptions are a minor time cost, not worth a paid tool."
     },
@@ -115,7 +115,7 @@
       "use_case": "Draft listing descriptions and multi-platform social captions directly from property details, styled to the agent's voice.",
       "cost": "$20/month (Claude Pro), likely already covered if the client has a subscription from other AI-Assisted recommendations.",
       "setup_time": "Low; requires a short style/voice calibration but no integration work.",
-      "last_verified": "2026-08-24",
+      "last_verified": "2026-08-31",
       "source_url": "https://www.hermify.io/en/blog/ai-assistant-for-real-estate-agents",
       "notes": "Requires a human read-through for Fair Housing compliance and factual accuracy before publishing, same caveat as any AI-drafted description."
     },
@@ -126,7 +126,7 @@
       "use_case": "Done-for-you social media content library: Canva templates, captions, Reels trend briefs for Instagram/Facebook/TikTok.",
       "cost": "$74/month.",
       "setup_time": "Low; templates are ready to customize, no design work required.",
-      "last_verified": "2026-08-24",
+      "last_verified": "2026-08-31",
       "source_url": "https://coffeecontracts.com/pricing",
       "notes": "No built-in scheduling/posting automation; still needs a scheduler like Buffer paired with it."
     },
@@ -137,7 +137,7 @@
       "use_case": "Cross-platform social media scheduling and auto-publishing (Instagram, Facebook, LinkedIn, X, Threads).",
       "cost": "Essentials $5/month per channel (yearly), Team $10/month per channel (yearly)",
       "setup_time": "Very low.",
-      "last_verified": "2026-08-24",
+      "last_verified": "2026-08-31",
       "source_url": "https://buffer.com/pricing",
       "notes": "Scheduling only, no content creation. Pairs naturally with Coffee & Contracts or Claude-drafted captions."
     },
@@ -148,7 +148,7 @@
       "use_case": "AI-driven lead nurture via text/voice, trained specifically on real estate buyer/seller conversations; qualifies leads before handoff to a human agent.",
       "cost": "$99\u2013$499/mo",
       "setup_time": "Medium; needs CRM integration (works with Follow Up Boss and Lofty) and conversation-flow tuning.",
-      "last_verified": "2026-08-24",
+      "last_verified": "2026-08-31",
       "source_url": "https://www.layer3labs.io/comparisons/best-ai-chatbot-for-real-estate",
       "notes": "Best recommended only when lead volume genuinely justifies the cost; overkill for a 1-3 agent team with low lead flow."
     },
@@ -159,7 +159,7 @@
       "use_case": "General-purpose AI chatbot/messaging platform configured for real estate FAQs, lead qualification, and agent handoff across web/mobile/messaging.",
       "cost": "Starts from $1.25 per resolution",
       "setup_time": "Medium; requires FAQ/flow training even though it's not real-estate-specific out of the box.",
-      "last_verified": "2026-08-24",
+      "last_verified": "2026-08-31",
       "source_url": "https://www.crescendo.ai/blog/best-real-estate-chatbots-with-ai",
       "notes": "Cheaper general-purpose alternative to Structurely when a client wants basic chat coverage without real-estate-specific training."
     }
