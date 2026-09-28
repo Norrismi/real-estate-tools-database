@@ -1,0 +1,11 @@
+[
+  {
+    "tool": "Lofty (formerly Chime)",
+    "reason": "Page lists Lofty with 'Platform + seat-based pricing' but does not provide the $449+/mo figure; exact current pricing requires visiting Lofty's website directly as noted in the disclaimer.",
+    "status_found": "active",
+    "confidence": "low",
+    "current_price_text": "Platform + seat-based pricing (exact amount not specified on page)",
+    "recorded_cost": "~$449+/mo",
+    "source_url": "https://www.sierrainteractive.com/insights/blog/best-real-estate-crm/"
+  }
+]
