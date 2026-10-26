@@ -1,0 +1,86 @@
+[
+  {
+    "tool": "Follow Up Boss",
+    "reason": "Claude verification call failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011CgRNAspZjBB6t1hgPpZEV'}",
+    "source_url": "https://www.cloudtalk.io/blog/follow-up-boss-pricing/",
+    "recorded_cost": "Grow $58/month, Pro $416/month (10 users), Platform $833/month (30 users), Dialer add-on $33/user/month"
+  },
+  {
+    "tool": "Lofty (formerly Chime)",
+    "reason": "Claude verification call failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011CgRNAuz3MxZHZYo8TYmXp'}",
+    "source_url": "https://www.sierrainteractive.com/insights/blog/best-real-estate-crm/",
+    "recorded_cost": "~$449+/mo"
+  },
+  {
+    "tool": "ShowingTime (Appointment Center)",
+    "reason": "Claude verification call failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011CgRNAx7X9s1FM7e7Tcc4j'}",
+    "source_url": "https://showingtime.com/solutions/showings-and-offers/support",
+    "recorded_cost": "not found"
+  },
+  {
+    "tool": "Calendly",
+    "reason": "Claude verification call failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011CgRNAzC3Hb9e35yEc37si'}",
+    "source_url": "https://agiled.app/blog/best-scheduling-software-for-real-estate",
+    "recorded_cost": "not found"
+  },
+  {
+    "tool": "ListedKit",
+    "reason": "Claude verification call failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011CgRNB1vEN1wWbivewHWjw'}",
+    "source_url": "https://www.listedkit.com/best-tc-software",
+    "recorded_cost": "$14.99 per contract intake (pay-per-use model)."
+  },
+  {
+    "tool": "DocJacket",
+    "reason": "Claude verification call failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011CgRNB3yVtZoizRVoj1QqZ'}",
+    "source_url": "https://www.docjacket.com/blog/best-transaction-coordinator-software",
+    "recorded_cost": "From $29/user/month."
+  },
+  {
+    "tool": "SkySlope",
+    "reason": "Claude verification call failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011CgRNB7R8AdPSDi2uWX5Gx'}",
+    "source_url": "https://rebillion.ai/blog/2026/02/28/ai-transaction-coordinator-tools/",
+    "recorded_cost": "$49-149/month per coordinator."
+  },
+  {
+    "tool": "ListingAI",
+    "reason": "Claude verification call failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011CgRNB9g4Q3wtzEhvdaV1m'}",
+    "source_url": "https://www.listingai.co/pricing",
+    "recorded_cost": "Essential $19/month, Professional $36/month, Expert $150/month, plus Free tier"
+  },
+  {
+    "tool": "EstatePass Listing Description Generator",
+    "reason": "Claude verification call failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011CgRNBC1wz2qS6BJMN5Uze'}",
+    "source_url": "https://www.estatepass.ai/best/listing-description-generator/",
+    "recorded_cost": "Free."
+  },
+  {
+    "tool": "Claude (via claude.ai) for listing descriptions",
+    "reason": "Claude verification call failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011CgRNBF4zZbdnjwfkKrfr4'}",
+    "source_url": "https://www.hermify.io/en/blog/ai-assistant-for-real-estate-agents",
+    "recorded_cost": "$20/month (Claude Pro), likely already covered if the client has a subscription from other AI-Assisted recommendations."
+  },
+  {
+    "tool": "Coffee & Contracts",
+    "reason": "Claude verification call failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011CgRNBGvN4vWso3ukrUQPa'}",
+    "source_url": "https://coffeecontracts.com/pricing",
+    "recorded_cost": "$74/month."
+  },
+  {
+    "tool": "Buffer",
+    "reason": "Claude verification call failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011CgRNBJhGj9kpf4Q6fm9os'}",
+    "source_url": "https://buffer.com/pricing",
+    "recorded_cost": "Essentials $5/month per channel (yearly), Team $10/month per channel (yearly)"
+  },
+  {
+    "tool": "Structurely",
+    "reason": "Claude verification call failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011CgRNBLyx2UC4brSJrdBKT'}",
+    "source_url": "https://www.layer3labs.io/comparisons/best-ai-chatbot-for-real-estate",
+    "recorded_cost": "$99\u2013$499/mo"
+  },
+  {
+    "tool": "Freshchat (Freshworks)",
+    "reason": "Claude verification call failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011CgRNBP1jgMBNHHsbbWAk9'}",
+    "source_url": "https://www.crescendo.ai/blog/best-real-estate-chatbots-with-ai",
+    "recorded_cost": "Starts from $1.25 per resolution"
+  }
+]
